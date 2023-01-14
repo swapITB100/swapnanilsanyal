@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnanilsanyal
 - 👀 I’m interested in elctronics and coding
-- 🌱 I’m currently learning electrical engineering
+- 🌱 I’m currently learning INFORMATION TECHNOLOGY
 - 💞️ I’m looking to collaborate on audrino based stuffs
 - 📫 How to reach me 8584059551
 
